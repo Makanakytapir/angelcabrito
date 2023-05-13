@@ -1,0 +1,41 @@
+h1{
+    background-color: yellow;
+    text-align: center;
+    border-radius: .2em;
+    margin: auto;
+    padding: .5em;
+
+
+}
+form{
+    background-color: rgb(255, 255, 255);
+    border-radius: 0.5em;
+    box-shadow: 1px 1px 6px rgb(8, 8, 8);
+    max-width: 500px;
+    margin: auto;
+    padding: 2em;
+}
+
+.formula{
+    width: 100%;
+    border-radius: .5em;
+    border: 1px solid rgb(6, 198, 247);
+    padding: .3em;    
+    margin-bottom: 1em;
+    color: black;
+}
+
+.aceptar{
+    text-align: center;
+    background-color: black;
+    color: white;
+    border-radius: .5em;
+    padding: 1.5em;
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.acepto{
+    vertical-align: top;
+    font-weight: bold;
+}
